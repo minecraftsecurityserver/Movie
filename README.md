@@ -1,4 +1,4 @@
-# 🎬 MIMIC Movie
+# 🎬Movie
 
 Minecraft Bedrock Kinowelt mit 3 Filmen in voller Länge.
 
